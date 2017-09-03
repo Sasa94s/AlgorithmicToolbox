@@ -4,6 +4,8 @@ Programming Assignments for Algorithmic Toolbox on Coursera
 
 ***Note:*** *You need to follow Coursera’s Honor Code to uphold Coursera's standard of academic integrity. Your programming assignments must be your own work.*
 
+**PS:** These solutions are implemented in Java.
+
 
 ----------
 
